@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rutger van de Leur, MD / PhD-student"
+title                    : "Rutger van de Leur / PhD-student"
 title_separator          : "-"
 name                     : &name "Rutger van de Leur"
-description              : &description "PhD-student at the University Medical Center Utrecht"
+description              : &description "MD PhD-student at the University Medical Center Utrecht"
 url                      : https://rutger.vandeleur.ai # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rutgervandeleur/rutgervandeleur.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rutger van de Leur"
   avatar           : "DSCF5971-3.jpg"
-  bio              : "PhD-student at the University Medical Center Utrecht with a focus on implementation of state-of-the-art AI techniques for automated interpretation of ECGs."
+  bio              : "Medical doctor, epidemiologist-in-training and PhD-student at the UMC Utrecht with a focus on implementation of state-of-the-art AI techniques for automated interpretation of ECGs."
   location         : "Utrecht, the Netherlands"
-  employer         : "UMC Utrecht / Netherlands Heart Institute"
+  employer         : "UMC Utrecht"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28Van+de+Leur+R%5BAuthor%5D%29+OR+%28Van+der+Leur+RR%5BAuthor%5D%29&sort=date"
   googlescholar    : "https://scholar.google.com/scholar?hl=nl&as_sdt=0%2C5&q=%22Van+de+Leur+RR%22+OR+%22Van+der+Leur+RR%22+&btnG="
   email            : "r.r.vandeleur@umcutrecht.nl"
