@@ -2,8 +2,9 @@
 title: "Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology"
 collection: publications
 permalink: /publication/2020-01-01-Big-Data-and-Artificial-Intelligence-Opportunities-and-Threats-in-Electrophysiology
-date: 2020-01-01
+date: 2020-12-01
 venue: 'Arrhythmia &amp; electrophysiology review'
-citation: ' Rutger {Van de Leur},  Machteld Boonstra,  Ayoub Bagheri,  Rob Roudijk,  Arjan Sammani,  Karim Taha,  Pieter Doevendans,  P {Van der Harst},  PM {Van Dam},  RJ Hassink,  R {Van Es},  F Asselbergs, &quot;Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology.&quot; Arrhythmia &amp;amp; electrophysiology review, 2020.'
+citation: 'Van de Leur RR<sup>*</sup>, Boonstra MJ<sup>*</sup>, Bagheri A, Roudijk RW, Sammani A, Taha K, Doevendans PA, Van der Harst P, Van Dam P, Hassink R, Van Es R, Asselbergs FW. Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology. Arrhythmia Electrophysiol Rev. 2020;9:xx–xx.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Big+Data+and+Artificial+Intelligence:+Opportunities+and+Threats+in+Electrophysiology){:target="_blank"} for full citation
+
+*in press*
