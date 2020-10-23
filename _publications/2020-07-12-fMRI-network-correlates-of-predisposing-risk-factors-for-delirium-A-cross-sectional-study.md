@@ -1,7 +1,7 @@
 ---
 title: "fMRI network correlates of predisposing risk factors for delirium: A cross-sectional study"
 collection: publications
-permalink: /publication/2020-01-01-fMRI-network-correlates-of-predisposing-risk-factors-for-delirium-A-cross-sectional-study
+permalink: /publication/2020-07-12-fMRI-network-correlates-of-predisposing-risk-factors-for-delirium-A-cross-sectional-study
 date: 2020-07-12
 venue: 'NeuroImage: Clinical'
 citation: 'van Montfort SJT, Slooter AJC, Kant IMJ, van de Leur RR, Spies C, de Bresser J, Witkamp TD, Hendrikse J, van Dellen E. fMRI network correlates of predisposing risk factors for delirium: A cross-sectional study. NeuroImage Clin. 2020;27:102347.'

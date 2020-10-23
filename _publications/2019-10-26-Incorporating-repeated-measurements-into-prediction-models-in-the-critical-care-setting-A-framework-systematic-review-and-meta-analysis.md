@@ -1,7 +1,7 @@
 ---
 title: "Incorporating repeated measurements into prediction models in the critical care setting: A framework, systematic review and meta-analysis"
 collection: publications
-permalink: /publication/2019-01-01-Incorporating-repeated-measurements-into-prediction-models-in-the-critical-care-setting-A-framework-systematic-review-and-meta-analysis
+permalink: /publication/2019-10-26-Incorporating-repeated-measurements-into-prediction-models-in-the-critical-care-setting-A-framework-systematic-review-and-meta-analysis
 date: 2019-10-26
 venue: 'BMC Medical Research Methodology'
 citation: 'Plate JDJ, Van De Leur RR, Leenen LPH, Hietbrink F, Peelen LM, Eijkemans MJC. Incorporating repeated measurements into prediction models in the critical care setting: A framework, systematic review and meta-analysis. BMC Med Res Methodol. 2019;19.'

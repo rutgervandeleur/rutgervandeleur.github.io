@@ -1,8 +1,8 @@
 ---
 title: "3D Myocardial Scar Prediction Model Derived from Multimodality Analysis of Electromechanical Mapping and Magnetic Resonance Imaging"
 collection: publications
-permalink: /publication/2019-01-01-3D-Myocardial-Scar-Prediction-Model-Derived-from-Multimodality-Analysis-of-Electromechanical-Mapping-and-Magnetic-Resonance-Imaging
-date: 2019-01-01
+permalink: /publication/2019-07-23-3D-Myocardial-Scar-Prediction-Model-Derived-from-Multimodality-Analysis-of-Electromechanical-Mapping-and-Magnetic-Resonance-Imaging
+date: 2019-07-23
 venue: 'Journal of Cardiovascular Translational Research'
 citation: 'Van den Broek HT, Wenker S, van de Leur RR, Doevendans PA, Chamuleau SAJ, van Slochteren FJ, van Es R. 3D Myocardial Scar Prediction Model Derived from Multimodality Analysis of Electromechanical Mapping and Magnetic Resonance Imaging. J Cardiovasc Transl Res. 2019;12:517–527.'
 ---

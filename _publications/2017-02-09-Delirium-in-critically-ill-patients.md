@@ -1,7 +1,7 @@
 ---
 title: "Delirium in critically ill patients."
 collection: publications
-permalink: /publication/2017-01-01-Delirium-in-critically-ill-patients
+permalink: /publication/2017-02-09-Delirium-in-critically-ill-patients
 date: 2017-02-09
 venue: 'Handbook of Clinical Neurology'
 citation: 'Slooter AJC, Van De Leur RR, Zaal IJ. Delirium in critically ill patients. Handb Clin Neurol. 2017;141:449–466.'
