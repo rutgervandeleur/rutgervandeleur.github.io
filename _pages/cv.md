@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2017 - today: **MSc in Epidemiology**, *Utrecht University*
+  * Specialization: Medical Statistics and Cardiovascular Epidemiology
+  * Electives:
+    * Introduction to Data Science Summer School at the *London School of Economics*
+    * Deep Learning at the *University of Amsterdam*
+  * **GPA 4.0 / Average grade 8.4**
+* 2012 - 2020: **BSc & MSc in Medicine**, *Utrecht University*
+  * Participated in Medical Master Honours Program
+  * Elective internships:
+    * 2019 - 2020: Specialization year Vital Functions with focus on Cardiology (UMC Utrecht), Anesthesiology (Diakonessenhuis Utrecht) and Intensive Care Medicine (St. Antonius Nieuwegein)
+    * 2019: Emergency Medicine internship at the Emergency Department of the *Academisch Ziekenhuis Paramaribo, Suriname*
+    * 2017: Ophthalmology internship at *Pacific Eye Institute, Los Angeles, USA & Eye Center South, Dothan, USA*
+    * 2016: Obstetrics and Gynaecology internship at *Groote Schuur Hospital and Mowbray Maternity Clinic, Cape Town, South Africa*
+  * **GPA 4.0 / Average grade 8.3**
+* 2006 - 2012: **Pre-university education**, *Stedelijk Gymnasium Arnhem*
+  * Subjects: Dutch, English, Spanish, Greek, Physics, Chemistry, Mathematics, Biology and Economy
+  * **Graduated Cum Laude**
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - today: **PhD-student**, *Department of Cardiology, UMC Utrecht*
+  * Project: Deep learning and artificial intelligence for automated analysis of the electrocardiogram
+* 2014 - 2020: **Teaching assistant**, *Utrecht University*
+  * Teaching small groups of Medical students in Anatomy and Epidemiology
+* 2015 - 2018: **Research assistant**, *Intensive Care Department, UMC Utrecht*
+  * Screening patients for several studies and managing large databases
+* 2013 - 2018: **Ward Assistant**, *UMC Utrecht*
+* 2014 - 2017: **National Reserve Corps**, *Royal Netherlands Army*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * Dutch (C2, mother tongue)
+  * English (C1, Cambridge Certificate)
+  * Spanish and German (A2)
+
+Interests
+======
+Sailing, technology, photography and graphic design
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
