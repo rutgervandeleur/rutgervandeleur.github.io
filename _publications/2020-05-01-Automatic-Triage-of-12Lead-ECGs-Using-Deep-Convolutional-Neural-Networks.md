@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2020-05-01-Automatic-Triage-of-12Lead-ECGs-Using-Deep-Convolutional-Neural-Networks
 date: 2020-05-14
 venue: 'Journal of the American Heart Association'
-paperurl: 'https://www.ahajournals.org/doi/10.1161/JAHA.119.015138'
 citation: 'van de Leur RR, Blom LJ, Gavves E, Hof IE, van der Heijden JF, Clappers NC, Doevendans PA, Hassink RJ, van Es R. Automatic Triage of 12‐Lead ECGs Using Deep Convolutional Neural Networks. J Am Heart Assoc. 2020'
 ---
 [Access paper here](https://www.ahajournals.org/doi/10.1161/JAHA.119.015138){:target="_blank"}
