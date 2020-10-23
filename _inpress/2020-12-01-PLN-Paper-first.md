@@ -6,5 +6,5 @@ date: 2020-05-14
 venue: 'Circulation: Arrhythmia & Electrophysiology'
 citation: 'Van de Leur RR, Taha K, Bos, MN, Van der Heijden JF, Gupta D, Cramer MJ, Hassink RJ, Van der Harst P, Doevendans PA, Asselbergs FW, Van Es R. Discovering and visualizing disease-specific electrocardiogram features using deep learning: proof-of-concept in phospholamban gene mutation carriers. Circ Arrhythmia Electrophysiol. submitted'
 ---
-<sup>*</sup> These authors contributed equally.
+These two authors contributed equally.
 *submitted* 
