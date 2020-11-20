@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * 2017 - today: **MSc in Epidemiology**, *Utrecht University*
