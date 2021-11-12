@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* 2017 - today: **MSc in Epidemiology**, *Utrecht University*
+* 2017 - 2021: **MSc in Epidemiology**, *Utrecht University*
   * Specialization: Medical Statistics and Cardiovascular Epidemiology
   * Electives:
     * Introduction to Data Science Summer School at the *London School of Economics*
@@ -29,8 +29,10 @@ Education
 
 Work experience
 ======
+* 2021 - today: **Co-founder**, Ocqam Statistics
+  * Developing a tool to help other scientists find the statistical analysis they need (https://ocq.am)
 * 2018 - today: **PhD-student**, *Department of Cardiology, UMC Utrecht*
-  * Project: Deep learning and artificial intelligence for automated analysis of the electrocardiogram
+  * Project: Deep learning for automated analysis of the electrocardiogram and the development of an artificial intelligence-enabled portable multi-lead ECG device
 * 2014 - 2020: **Teaching assistant**, *Utrecht University*
   * Teaching small groups of Medical students in Anatomy and Epidemiology
 * 2015 - 2018: **Research assistant**, *Intensive Care Department, UMC Utrecht*
@@ -48,6 +50,10 @@ Skills
 Interests
 ======
 Sailing, technology, photography and graphic design
+
+Grants
+======
+* 2019: ZonMw/IMDI/DCVA/Dutch Heart Foundation grant "Heart for Sustainable Care" for our consortium 
 
 Publications
 ======
