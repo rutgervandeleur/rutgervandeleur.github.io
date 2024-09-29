@@ -1,9 +1,0 @@
----
-title: "Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology"
-collection: publications
-permalink: /publication/2020-12-01-Big-Data-and-Artificial-Intelligence-Opportunities-and-Threats-in-Electrophysiology
-date: 2020-12-01
-venue: 'Arrhythmia &amp; Electrophysiology Review'
-citation: 'Van de Leur RR<sup>*</sup>, Boonstra MJ<sup>*</sup>, Bagheri A, Roudijk RW, Sammani A, Taha K, Doevendans PA, Van der Harst P, Van Dam P, Hassink R, Van Es R, Asselbergs FW. Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology. Arrhythmia Electrophysiol Rev. 2020;9(3):146-54.'
----
-The combination of big data and artificial intelligence (AI) is having an increasing impact on the field of electrophysiology. Algorithms are created to improve the automated diagnosis of clinical ECGs or ambulatory rhythm devices. Furthermore, the use of AI during invasive electrophysiological studies or combining several diagnostic modalities into AI algorithms to aid diagnostics are being investigated. However, the clinical performance and applicability of created algorithms are yet unknown. In this narrative review, opportunities and threats of AI in the field of electrophysiology are described, mainly focusing on ECGs. Current opportunities are discussed with their potential clinical benefits as well as the challenges. Challenges in data acquisition, model performance, (external) validity,clinical implementation, algorithm interpretation as well as the ethical aspects of AI research are discussed. This article aims to guide clinicians in the evaluation of new AI applications forelectrophysiology before their clinical implementation.
