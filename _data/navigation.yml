@@ -7,3 +7,5 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "PhD thesis"
+    url: /files/thesis.pdf

@@ -30,7 +30,11 @@ Education
 
 Work experience
 ======
-* 2018 - today: **PhD-student**, *Department of Cardiology, UMC Utrecht*
+* 2023 - now: **ANIOS (resident-not-in-training)**, UMC Utrecht
+* 2018 - now: **Co-founder and Chief Medical Officer**, *Cordys Analytics*
+  * Cordys Analytics is a spin-off of the UMC Utrecht focused on the valorisation of ECG-based AI algorithms and development of a software platform to implement them in clinical practice (https://cordys.health).
+* 2022-2023: **ANIOS (resident-not-in-training)**, Meander Medisch Centrum
+* 2018 - 2023: **PhD-student**, *Department of Cardiology, UMC Utrecht*
   * Project: Deep learning and artificial intelligence for automated analysis of the electrocardiogram
 * 2014 - 2020: **Teaching assistant**, *Utrecht University*
   * Teaching small groups of Medical students in Anatomy and Epidemiology
@@ -49,9 +53,3 @@ Skills
 Interests
 ======
 Sailing, technology, photography and graphic design
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

@@ -8,7 +8,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Rutger van de Leur / PhD-student"
+title: "Rutger van de Leur"
 title_separator: "-"
 name: &name "Rutger van de Leur"
 description: &description "MD PhD-student at the University Medical Center Utrecht"
